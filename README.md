@@ -14,7 +14,7 @@ Tried to implement a basic version of Crypto Currency. The project implements th
 3) Thakur Shivank Singh
 4) Vamsi Krishna
 <h3>Structure of Source Code</h3>
-• The folder "blockchain_demo" contains the source code. The code is divided into 2 subfolders named "blockchain" and "blockchain_client", and two other folders named ".idea" and "venv" which will help in building the virtual environment in the PyCharm. These files will help replicate the environment of the project in any system.
+• The folder "blockchain_demo" contains the source code. The code is divided into 2 subfolders named "blockchain" and "blockchain_client", and two other folders named ".idea" and "venv" (these will be created automatically) which will help in building the virtual environment in the PyCharm. These files will help replicate the environment of the project in any system.
 <br>
 • The folder "blockchain" consists of scripts from the server side. It is further divided into 3 sub directories. One which has the HTML and Javascript(templates) which is used for UI.The static folder contains the custom CSS and bootstrap frameworks. The "blockchain.py" consists of the python script which is used to implement various functionalities like create block,verify transaction, Proof of work etc. 
 <br>
