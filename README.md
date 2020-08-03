@@ -34,6 +34,4 @@ In the PyCharm IDE,<br>
 2)Configure diffrent nodes according to their need. If you are making a node then you have to configure it on blockchain.py and give 5000 port series to it.
   For creating a user client we have to configure it on blockchain_client.py and give 8000 series port to it.<br>
 3)And finally run all these configruations to get a running project.<br>
-4) We have tried to explain all the working of the project in our Project Demo video present in the presentation.<br>
 <br>
-</br>
